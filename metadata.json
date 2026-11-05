@@ -1,0 +1,6 @@
+{
+  "name": "SkyCast - Flutter Weather Forecast App",
+  "description": "Modern Material 3 Weather Forecast Android application built with Flutter, Provider, fl_chart, and live weather API integration.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
